@@ -1,2 +1,2 @@
 # update_gspread
-update google spread with the information from certain website
+This program updates google spread with the information from certain website
